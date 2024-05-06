@@ -1,4 +1,4 @@
-from mody import Mody
+from ze-telethon-cl import Mody
 import threading
 import os
 import json
